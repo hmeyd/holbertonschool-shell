@@ -1,2 +1,2 @@
 #!/bin/bash
-./verifier_type_fichier.sh
+file_path="/tmp/iamafile"
