@@ -1,2 +1,2 @@
 #!/bin/bash
-TEST_1="Hello,World\n"
+echo"Hello,World\n"
