@@ -1,0 +1,16 @@
+#!/bin/bash
+1-ls
+2-rm
+3-mkdir
+4-head
+5-cat
+6-tail
+7-echo
+8-lees
+9-touch
+10-rmdir
+11-git add
+12-git commit -m
+13-git puch
+14-git pull
+14-git pull
