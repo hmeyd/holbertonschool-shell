@@ -1,2 +1,2 @@
 #!/bin/bash
-string//$c C
+string_lower//$c $C
