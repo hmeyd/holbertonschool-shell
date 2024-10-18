@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PHAT -type f -print | wc -l
+find . -type d -mindepth $n
