@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PHAT| wc -l
+find $PHAT -type f -print | wc -l
