@@ -1,2 +1,2 @@
 #!/bin/bash
-find /usr/local/sbin -type d -mindepth 1 -print | wc -l
+ls -l /usr/local/sbin/ | wc -l
