@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld "$PATH"/* | wc -l
+find .vim/ -maxdepth 1 -type d
