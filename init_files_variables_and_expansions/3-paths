@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /usr/local/sbin/ | wc -l
+echo "$PATH" | tr ':' '\n' | wc -l
