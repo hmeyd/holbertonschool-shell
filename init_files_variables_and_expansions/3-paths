@@ -1,2 +1,2 @@
 #!/bin/bash
-find "$dir" -maxdepth 0 -type d 2>/dev/null | wc -l
+echo "$PATH" | tr ':' '\n' | wc -l
