@@ -1,2 +1,2 @@
 #!/bin/bash
-':' read -ra directories <<< "$PATH"
+find "$dir" -maxdepth 0 -type d 2>/dev/null | wc -l
